@@ -22,5 +22,5 @@ multiculturalism <br>
 computer science <br>
 philosophy <br>
 equality <br>
-global citizen
+human rights
 
