@@ -9,30 +9,18 @@ doing introvert things , pets of own
 high school ; Kanthararom (sci-math) <br>
 university  ; Thammasat (cis,dsi)
 
-```markdown
-Syntax highlighted code block
+### Experience
 
-# Header 1
-## Header 2
-### Header 3
+MEDQUIZ'19 Khonkhaen University <br>
+speech contest'19  <br>
+(sci-math project)Using Euler Diagrams in Driving <br>
+Rural Development Volunteer Camp
 
-- Bulleted
-- List
+### Interest
 
-1. Numbered
-2. List
+multiculturalism <br>
+computer science <br>
+philosophy <br>
+equality <br>
+global citizen
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Monanurak/Anurak-Boonsaner/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
