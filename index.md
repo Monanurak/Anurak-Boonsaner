@@ -2,7 +2,6 @@
 <img src="https://www.img.in.th/images/91185cc9894462929b056ae7945fa211.jpg" width="300" height="300">
 
 for work via ; anurak.boon@dome.tu.ac.th <br>
-active personal ig ; @monanurak <br>
 doing introvert things , pets of own 
 
 ### Education
