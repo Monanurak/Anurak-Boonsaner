@@ -7,21 +7,22 @@ doing introvert things , pets of own
 
 ### Education
 
-high school ; Kanthararom (sci-math) <br>
-university  ; Thammasat (cis,dsi)
+a data science student (freshman) , thammasat u.
 
 ### Experience
 
 MEDQUIZ'19 Khonkhaen University <br>
-speech contest'19  <br>
-(sci-math project)Using Euler Diagrams in Driving <br>
-Rural Development Volunteer Camp
-.
+Speech contest'19  <br>
+Using Euler Diagrams in Driving (sci-math contest)<br>
+Rural Development Volunteer Camp <br>
+English Quiz
+
 ### Interest
 
 multiculturalism <br>
 computer science <br>
 philosophy <br>
-equality <br>
-human rights
+law <br>
+phychology
+
 
