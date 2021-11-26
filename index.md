@@ -1,12 +1,13 @@
 ## Anurak B.
 
-You can use the [editor on GitHub](https://github.com/Monanurak/Anurak-Boonsaner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+for work via ; anurak.boon@dome.tu.ac.th <br>
+active personal ig ; @monanurak <br>
+doing introvert things , pets of own 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+high school ; Kanthararom (sci-math) <br>
+university  ; Thammasat (cis,dsi)
 
 ```markdown
 Syntax highlighted code block
