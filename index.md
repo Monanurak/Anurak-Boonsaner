@@ -1,5 +1,5 @@
 ## Anurak B.
-<img src="https://www.img.in.th/images/91185cc9894462929b056ae7945fa211.jpg" width="250" height="250">
+<img src="https://www.img.in.th/images/91185cc9894462929b056ae7945fa211.jpg" width="250" height="251">
 
 for work via ; anurak.boon@dome.tu.ac.th <br>
 active personal ig ; @monanurak <br>
@@ -16,7 +16,7 @@ MEDQUIZ'19 Khonkhaen University <br>
 speech contest'19  <br>
 (sci-math project)Using Euler Diagrams in Driving <br>
 Rural Development Volunteer Camp
-
+.
 ### Interest
 
 multiculturalism <br>
